@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background-image: url("https://unite.pokemon.com/images/home/team-up/background.jpg");
-    background-size: inherit;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
